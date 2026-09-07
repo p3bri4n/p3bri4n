@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Pierre-Emmanuel Brian</h1>
-<h3 align="center">Freelance AI/ML Engineer — Generative AI & Agentic Systems</h3>
+<h3 align="center">AI/ML Engineer — Generative AI & Agentic Systems</h3>
 
 <p align="center">
   <img src="PLACEHOLDER_WAVE.gif" width="100" alt="wave gif placeholder"/>
